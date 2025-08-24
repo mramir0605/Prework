@@ -3,6 +3,7 @@
 Submitted by: **Mary E Ramirez**
 
 **Change Background Color ** is an app that lets the user change the screen color to a random color by tapping a button
+
 Time spent: **1** hours spent in total
 
 ## Required Features
