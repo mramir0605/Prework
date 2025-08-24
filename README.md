@@ -36,7 +36,7 @@ The following **required** functionality is completed:
 - Editing tools and filters  
 - Strong recommendations  
 
-### 🚀 App Idea: Mood Color  
+### 🚀 App Idea: Hydration Tracker
 
 I’d like to create an iOS app called **Hydration Tracker**. The idea is that tapping a button instantly changes the screen background to a random color. Users could save their favorite shades, view a color history, and even share colors with friends.  
 
