@@ -38,10 +38,7 @@ The following **required** functionality is completed:
 
 ### 🚀 App Idea: Hydration Tracker
 
-I’d like to create an iOS app called **Hydration Tracker**. The idea is that tapping a button instantly changes the screen background to a random color. Users could save their favorite shades, view a color history, and even share colors with friends.  
-
-Planned features include:  
-to help users stay properly hydrated throughout the day. The app allows users to log their water intake, set reminders, and track daily, weekly, or monthly progress with visual charts.  
+I’d like to create an iOS app called **Hydration Tracker**. The idea is to help users stay properly hydrated throughout the day. The app allows users to log their water intake, set reminders, and track daily, weekly, or monthly progress with visual charts.  
 
 **Planned features:**  
 - Quick log button to record water intake (e.g., 8 oz, 12 oz, custom amount)  
@@ -54,6 +51,7 @@ to help users stay properly hydrated throughout the day. The app allows users to
 ## Notes
 
 - One challenge I encountered while building the app was creating the IBAction. When I followed the steps, Xcode created an IBOutlet instead of an IBAction.
+- I also had an issue with GitHub, as it used another account I had open on my laptop when I committed.
 
 ## License
 
